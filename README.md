@@ -20,12 +20,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+   <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
 </div>
 <div>
   <p> </p>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
