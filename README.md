@@ -6,6 +6,7 @@
   * CLUG
   * CAUtion
   * GDSC CAU
+ + [2024.02 ~ ]: DEVOCEAN YOUNG 3rd
   
 <div>
   <p> </p>
