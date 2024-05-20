@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌱%20YeoJin%20GitHub%20🌱&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
 
 ## 🙋🏻‍♀️ Introduction
-+ [2018.03 ~ 2021.02] Chonnam Girls High School
 + [2021.03 ~ ]: Chung-Ang Univeristy Computer Science & Software Engineering
   * CLUG
   * CAUtion
