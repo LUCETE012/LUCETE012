@@ -19,7 +19,7 @@
 |GDSC SPACE|GDSC CAU 홈페이지 제작|Frontend|React|https://github.com/GDSC-CAU/GDSC-SPACE.git|
 |AudioPoli|GDSC Solution Challenge - 사건 현장 음성 분석 AI를 이용한 실시간 자동 신고 및 알림 시스템|Backend|Node.js|https://github.com/GDSC-CAU/AudioPoli-BE.git|
 |Issue Tracker|이슈 관리 시스템|Backend|Springboot|https://github.com/CAU-SWE-Team4/IssueTracker_Server.git|
-|Finut|경제 초등생을 위한 금융 교육 플랫폼|Backend|Springboot|https://github.com/devocean-finut/Finut_BE.git|
+|Finut|금융 초등생에게 다양한 기능을 통해 경제 지식을 알려줄 수 있는 금융 교육 플랫폼|Backend|Springboot|https://github.com/devocean-finut/Finut_BE.git|
 |아늑 (Aneuk)|AI 기반 가짜 감정 중독 예방 및 감정 단어 확장 솔루션|Backend|Springboot|https://github.com/NewMillenniumWorkout/A-Neuk-BE-Server.git|
 |4CutBox|셀프 사진 스튜디오 사진을 자동 저장하고 위치 및 날짜로 정리해주는 통합 관리 앱, 네컷BOX|Frontend|Android(Jetpack Compose)|https://github.com/NewMillenniumWorkout/4Cut-Box.git|
 
