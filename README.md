@@ -1,19 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌱%20YeoJin%20GitHub%20🌱&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
 
 ## 🙋🏻‍♀️ Introduction
-+ [2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering
-  * CLUG
-  * CAUtion
+[2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering
+
+
+## 🗂️ Activities
+ + [2022.03 ~ 23.02]: 교내 정보보안 동아리 CAUtion Executive
+ + [2022.09 ~ 23.08]: 교내 학술 동아리 CLUG Vice Chairman
  + [2023.08 ~ 24.06]: GDSC CAU 3rd Core
  + [2024.02 ~ 24.12]: DEVOCEAN YOUNG 3rd
  + [2024.07 ~ 25.06]: 24-25 GDGoC CAU Organizer
- + [2024.11 ~ ]: Computational Human-AI Interaction (CHAI) lab
+ + [2024.11 ~ ]: [Computational Human-AI Interaction (CHAI) lab](https://chai.cau.ac.kr/)
 
 <div>
   <p> </p>
 </div>
 
-## 💻 **Projects**
+## 💻 Projects
 |프로젝트명|내용|파트|기술|링크|
 |--|--|-|:-:|-|
 |GDSC SPACE|GDSC CAU 홈페이지 제작|Frontend|React|https://github.com/GDSC-CAU/GDSC-SPACE.git|
@@ -27,7 +30,13 @@
   <p> </p>
 </div>
 
-## 🛠️Tech Stack
+## 🏆 Awards
+- 2024 GDSC Solution Challenge Global Top 100
+
+
+
+
+## 🛠️ Tech Stack
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
@@ -42,7 +51,7 @@
   <p> </p>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -53,6 +62,25 @@
 
 <div>
   <p> </p>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+ <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+ <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+</div>
+
+<div>
+  <p> </p>
+</div>
+
+<div>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white"/>
 </div>
 
 
