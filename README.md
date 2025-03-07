@@ -65,12 +65,12 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/>
- <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
- <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
- <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon%20s3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/amazon%20rds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+ <img src="https://img.shields.io/badge/amazon%20ec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+ <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </div>
 
 <div>
