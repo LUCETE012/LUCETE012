@@ -8,7 +8,7 @@
  + [2022.03 ~ 23.02]: 교내 정보보안 동아리 CAUtion - Executive
  + [2022.09 ~ 23.08]: 교내 학술 동아리 CLUG - Vice Chairman
  + [2023.08 ~ 24.06]: GDSC CAU 3rd - Core
- + [2024.02 ~ 24.12]: DEVOCEAN YOUNG 3rd
+ + [2024.02 ~ 24.12]: SKT DEVOCEAN YOUNG 3rd
  + [2024.08 ~ 25.07]: 24-25 GDGoC CAU - Organizer
  + [2024.11 ~ ]: [Computational Human-AI Interaction (CHAI) lab](https://chai.cau.ac.kr/)
 
