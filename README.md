@@ -9,7 +9,7 @@
  + [2022.09 ~ 23.08]: 교내 학술 동아리 CLUG - Vice Chairman
  + [2023.08 ~ 24.06]: GDSC CAU 3rd - Core
  + [2024.02 ~ 24.12]: DEVOCEAN YOUNG 3rd
- + [2024.07 ~ 25.06]: 24-25 GDGoC CAU - Organizer
+ + [2024.08 ~ 25.07]: 24-25 GDGoC CAU - Organizer
  + [2024.11 ~ ]: [Computational Human-AI Interaction (CHAI) lab](https://chai.cau.ac.kr/)
 
 <div>
@@ -25,14 +25,16 @@
 |Finut|금융 초등생에게 다양한 기능을 통해 경제 지식을 알려줄 수 있는 금융 교육 플랫폼|Backend|Springboot|https://github.com/devocean-finut/Finut_BE.git|
 |아늑 (Aneuk)|AI 기반 가짜 감정 중독 예방 및 감정 단어 확장 솔루션|Backend|Springboot|https://github.com/NewMillenniumWorkout/A-Neuk-BE-Server.git|
 |4CutBox|셀프 사진 스튜디오 사진을 자동 저장하고 위치 및 날짜로 정리해주는 통합 관리 앱, 네컷BOX|Frontend|Android(Jetpack Compose)|https://github.com/NewMillenniumWorkout/4Cut-Box.git|
+|손길도우미| AI 기반 노인 키오스크 사용 보조 Agent|AI|OCR,LLM|https://github.com/LUCETE012/converstation-LLM.git|
 
 <div>
   <p> </p>
 </div>
 
 ## 🏆 Awards
-- 2024 GDSC Solution Challenge Global Top 100
-
+- 2024 GDSC Solution Challenge Global Top 100 - AudioPoli
+- 제 2회 CAU LINC 3.0 창업아이디어 경진대회 우수상 - 4CutBox
+- 2025 SW대학 디지털경진대회 SW 부문 후원기업상 (그렙) - 손길도우미
 
 
 
