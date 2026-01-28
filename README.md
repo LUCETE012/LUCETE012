@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌱%20YeoJin%20GitHub%20🌱&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
 
 ## 🙋🏻‍♀️ Introduction
-[2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering
+[2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering B.S.
+[2026.03 ~ ]: Chung-Ang Univeristy Computer Science & Software Engineering M.S.
 
 
 ## 🗂️ Activities
@@ -10,7 +11,7 @@
  + [2023.08 ~ 24.06]: GDSC CAU 3rd - Core
  + [2024.02 ~ 24.12]: SKT DEVOCEAN YOUNG 3rd
  + [2024.08 ~ 25.07]: 24-25 GDGoC CAU - Organizer
- + [2024.11 ~ ]: [Computational Human-AI Interaction (CHAI) lab](https://chai.cau.ac.kr/)
+ + [2024.11 ~ 26.02]: [Computational Human-AI Interaction (CHAI) lab](https://chai.cau.ac.kr/) 학부 연구생
 
 <div>
   <p> </p>
@@ -35,6 +36,7 @@
 - 2024 GDSC Solution Challenge Global Top 100 - AudioPoli
 - 제 2회 CAU LINC 3.0 창업아이디어 경진대회 우수상 - 4CutBox
 - 2025 SW대학 디지털경진대회 SW 부문 후원기업상 (그렙) - 손길도우미
+- 2025 중앙대학교 공학 학술제 소프트웨어대학장상 - 아늑
 
 
 
