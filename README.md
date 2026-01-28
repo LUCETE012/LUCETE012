@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌱%20YeoJin%20GitHub%20🌱&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
 
 ## 🙋🏻‍♀️ Introduction
-[2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering B.S.
+[2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering B.S. </p>
 [2026.03 ~ ]: Chung-Ang Univeristy Computer Science & Software Engineering M.S.
 
 
